@@ -1,0 +1,17 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Satoshi variable', sans-serif;
+  display: grid;
+  place-items: center;
+  /* background: linear-gradient(to bottom, #0f0c29, #0e0c1f, #24243e); */
+  background: #0d101d;
+  color: #fff;
+  height: 100vh;
+  box-sizing: border-box;
+}
