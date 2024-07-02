@@ -37,7 +37,7 @@ function Footer() {
                 <img src='/images/icon/fb.svg'/>
                 </div>
             </div>
-            <div><b>© By AE Traders.</b></div>
+            <div className='aetraders'><b>© By AE Traders.</b></div>
         </div>
     );
 }
