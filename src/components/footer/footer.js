@@ -25,7 +25,9 @@ function Footer() {
             <div className="footer3">
                 <div className='socialMedia'>Let's connect with us on!</div>
                 <div className='subContainer'>
+                    <a href='#location'>
                     <img src='/images/icon/map.svg'/>
+                    </a>
                 </div>
                 <div className='subContainer'>
                 <img src='/images/icon/instagram.svg'/>

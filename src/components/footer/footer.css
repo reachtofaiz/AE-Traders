@@ -12,6 +12,7 @@
     margin: 12px;
     flex-wrap: wrap;
     padding: 40px 0;
+    margin-top: 90px;
 }
 
 .footer1 {
@@ -113,6 +114,11 @@
 }
 .subContainer:hover{
     box-shadow: 2px 1px 12px 3px;
+}
+.subContainer a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .aetraders{
     margin-top: 15px;

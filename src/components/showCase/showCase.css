@@ -2,13 +2,13 @@
     width: 98%;
     height: 200vh;
     margin: auto;
-    background: linear-gradient(124deg, #011b2b, #131c32 69%);
+    background: linear-gradient(124deg, #013f68, #131c32 69%);
     border-radius: 10px;
     margin-bottom: 130px;
 }
 
 .showCaseTitle {
-    padding: 21px 53px 0 42px;
+    padding: 21px 257px 16px 201px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -20,9 +20,10 @@
     display: flex;
     gap: 5px;
     justify-content: center;
-    padding:213px 0 100px 0;
-    margin-top: 20px; 
+    padding: 130px 0 100px 0;
+    margin-top: 0;
 }
+
 
 .column {
     display: flex;

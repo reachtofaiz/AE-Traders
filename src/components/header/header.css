@@ -4,7 +4,7 @@
     /* border: 2px solid wheat; */
     display: flex;
     justify-content: space-between;
-    background: linear-gradient(to bottom, #1e2e45, rgb(16, 26, 43));
+    background: linear-gradient(to bottom, #4a658a, rgb(30, 49, 83));
 }
 
 .logo{
