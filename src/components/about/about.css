@@ -52,3 +52,36 @@
 .heading {
     display: flex;
 }
+
+@media screen and (max-width:700px) {
+    .about {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 98%;
+        height: 150vh;
+        padding: 20px;
+        margin-top: 230px;
+        margin: 10px;
+        border-radius: 6px;
+        background: linear-gradient(124deg, #011b2b, #131c32 69%);
+    }
+
+    .about h1 {
+        font-size: rem;
+        font-weight: 600;
+        margin: 650px 0 0 0;
+        text-align: center;
+        white-space: nowrap;
+    }
+}
+
+@media screen and (max-width:720px) {
+    .about h1 {
+        font-size: rem;
+        font-weight: 600;
+        margin: 1100px 0 0 0;
+        text-align: center;
+        white-space: nowrap;
+    }
+}

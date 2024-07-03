@@ -3,7 +3,7 @@ import styling from './showCase.css'
 function Showcase() {
     return (
         <div className='showCase' id='showCase'>
-            <div className='title'>"Experience the perfect fusion of tradition and innovation in our exclusive handloom collections."</div>
+            <div className='showCaseTitle '>"Experience the perfect fusion of tradition and innovation in our exclusive handloom collections."</div>
             <div className='photo-gallery'>
                 <div className='column'>
                 <img src='/images/showCase/img1.jpg' style={{ width: "270px", height: "590px" }} />
