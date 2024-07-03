@@ -10,8 +10,9 @@ body {
   display: grid;
   place-items: center;
   /* background: linear-gradient(to bottom, #0f0c29, #0e0c1f, #24243e); */
-  background: #0d101d;
+  background: #0e1224;
   color: #fff;
   height: 100vh;
   box-sizing: border-box;
+  font-size: 16px;
 }

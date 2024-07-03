@@ -1,6 +1,6 @@
 .footer {
     width: 98%;
-    height: 380px;
+    height: 50vh;
     /* border: 2px solid white; */
     display: flex;
     flex-direction: row;
@@ -11,11 +11,13 @@
     box-shadow: 0 1px 8px 0px;
     margin: 12px;
     flex-wrap: wrap;
+    padding: 40px 0;
+    margin-top: 90px;
 }
 
 .footer1 {
     width: 25%;
-    height: 280px;
+    height: 100%;
     /* border: 2px solid white; */
     background: linear-gradient(to bottom, #1e2e45, rgb(16, 26, 43));
     display: flex;
@@ -51,17 +53,17 @@
 
 .footer2 {
     width: 30%;
-    height: 280px;
+    height: 100%;
     /* border: 2px solid white; */
     background: linear-gradient(to bottom, #1e2e45, rgb(16, 26, 43));;
     box-shadow: 0 1px 8px 0px;
 }
 
-.link{
-    margin: 0px 0 0 90px;
+.pageLink{
+    margin: 30px 0 14px 85px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 39px 0 0 4px;
+    /* padding: 2px 0 0 4px; */
 }
 
 .footer2 a {
@@ -73,13 +75,12 @@
     display: grid;
     align-items: center;
     justify-content: center;
-    margin: 24px;
     line-height: 2.8rem;
 }
 
 .footer3 {
     width: 40%;
-    height: 280px;
+    height: 100%;
     /* border: 2px solid white; */
     background: linear-gradient(to bottom, #1e2e45, rgb(16, 26, 43));
     display: flex;
@@ -113,4 +114,47 @@
 }
 .subContainer:hover{
     box-shadow: 2px 1px 12px 3px;
+}
+.subContainer a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aetraders{
+    margin-top: 15px;
+}
+
+
+@media screen and (max-width:837px) {
+    .footer {
+        flex-direction: column;
+        height: auto;
+        padding: 60px 100px;
+    }
+    
+    .footer1, .footer2, .footer3 {
+        width: 100%;
+        margin-bottom: 50px;
+        border-radius: 9px;
+    }
+
+    .footer1{
+        height: 20vh;
+    }
+
+    .footer2{
+        height: 45vh;
+    }
+    .footer3{
+        height: 25vh;
+    }
+    .pageLink{
+        margin-left: 270px;
+        font-size: 2rem;
+    }
+    .socialMedia{
+        white-space: nowrap;
+        padding: 25px 0 0 0;
+    }
+
 }
