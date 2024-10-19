@@ -10,7 +10,7 @@ body {
   display: grid;
   place-items: center;
   /* background: linear-gradient(to bottom, #0f0c29, #0e0c1f, #24243e); */
-  background: #0e1224;
+  background: #000000;
   color: #fff;
   height: 100vh;
   box-sizing: border-box;

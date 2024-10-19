@@ -10,8 +10,7 @@
 
 .contact-description {
     width: 50%;
-    height: 65vh;
-    /* border-right: 1px solid white; */
+    height: 50vh;
     padding: 17px;
 }
 
@@ -35,7 +34,8 @@
 .contact-us {
     width: 50%;
     height: 51vh;
-    margin-bottom: 90px;
+    margin-bottom: 120px;
+    font-size: 2.5rem;
 }
 
 .userName {
@@ -78,7 +78,7 @@
     height: 38px;
     border-radius: 6px;
     border: none;
-    margin: 20px 198px;
+    margin: 20px 288px;
     padding: 0 10px;
     cursor: pointer;
 }
