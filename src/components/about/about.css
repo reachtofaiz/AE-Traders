@@ -6,32 +6,30 @@
     height: 700px;
     /* border: 2px solid white; */
     padding: 20px;
-    margin-top: 230px;
-    margin: 10px;
-    /* box-shadow: 0 0 11px 0px; */
+    margin-top: 72px;
     border-radius: 6px;
-    background: linear-gradient(124deg, #013f68, #131c32 69%);
+    /* background: linear-gradient(124deg, #042134, #16293e 69%); */
+    background: #13202e;
 }
 
 .about h1 {
     position: absolute;
-    top: 682px;
-    font-size: 2.8rem;
+    top: 722px;
+    font-size: 3.8rem;
     margin-top: 100px;
 }
 
 .about img {
-    width: 315px;
+    width: 235px;
     height: 350px;
     margin-right: 20px;
     border-radius: 6px;
 }
 
 .description {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     text-align: center;
     line-height: 2rem;
-    font-size: 1.2rem;
     padding: 0 11px 30px 21px;
 }
 
@@ -39,14 +37,6 @@
     display: flex;
     margin-right: 20px;
     border-radius: 6px;
-}
-
-.description {
-    font-size: 1.1rem;
-    text-align: center;
-    line-height: 2rem;
-    font-size: 1.2rem;
-    padding: 0 11px 30px 21px;
 }
 
 .heading {

@@ -1,19 +1,19 @@
 .showCase {
     width: 98%;
-    height: 200vh;
+    height: 180vh;
     margin: auto;
-    background: linear-gradient(124deg, #013f68, #131c32 69%);
+    background: #13202e;
     border-radius: 10px;
-    margin-bottom: 130px;
+    margin-bottom: 120px;
 }
 
 .showCaseTitle {
-    padding: 21px 257px 16px 201px;
+    padding: 60px 257px 16px 201px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.9rem;
+    font-size: 3rem;
 }
 
 .photo-gallery {
