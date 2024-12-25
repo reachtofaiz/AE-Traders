@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Curtains Guide",
+      "slug": "curtains-guide",
+      "description": "Learn how to choose the perfect curtains for your home with this comprehensive guide.",
+      "isFeatured": true,
+      "image": "/productsImages/curtains.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bedsheet Essentials",
+      "slug": "bedsheet-essentials",
+      "description": "Understand the difference between various bedsheet fabrics and thread counts for better sleep.",
+      "isFeatured": true,
+      "image": "/productsImages/bedsheet.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Doormat Selection",
+      "slug": "doormat-selection",
+      "description": "Discover how to choose durable and stylish doormats for your entryway.",
+      "isFeatured": true,
+      "image": "/productsImages/doormat.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pillow Talk",
+      "slug": "pillow-talk",
+      "description": "Find out how to pick the right pillows for maximum comfort and support.",
+      "isFeatured": true,
+      "image": "/productsImages/pillow.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Wall Décor Inspiration",
+      "slug": "wall-decor-inspiration",
+      "description": "Explore innovative wall décor ideas to transform blank walls into stunning focal points.",
+      "isFeatured": true,
+      "image": "/productsImages/decor.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tableware Trends",
+      "slug": "tableware-trends",
+      "description": "Stay updated on the latest tableware designs to create an inviting dining experience.",
+      "isFeatured": true,
+      "image": "/productsImages/table.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Storage Solutions",
+      "slug": "storage-solutions",
+      "description": "Learn smart storage hacks and products to declutter and organize your space.",
+      "isFeatured": true,
+      "image": "/productsImages/storage.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Lighting Ideas",
+      "slug": "lighting-ideas",
+      "description": "Discover lighting solutions that bring warmth and style to every corner of your home.",
+      "isFeatured": true,
+      "image": "/productsImages/lightingIdea.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cleaning Essentials",
+      "slug": "cleaning-essentials",
+      "description": "Get insights into effective cleaning products that make household chores easier.",
+      "isFeatured": true,
+      "image": "/productsImages/cleaning.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Art Deco Wallpaper Stickers",
+      "slug": "",
+      "description": "Add a touch of glamour and sophistication with art deco-inspired wallpaper stickers. Ideal for creating a vintage-modern fusion.",
+      "isFeatured": true,
+      "image": "/productsImages/wallpaper.jpg"
+    }
+  ]
+}
