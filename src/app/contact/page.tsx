@@ -12,7 +12,7 @@ function contactUs() {
           Contact Us
         </h1>
         <p className="text-neutral-300 max-w-lg mx-auto my-2 text-lg text-center">
-          Ready to elevate your brand? Reach out to us today and let's start crafting your unique story together. Whether you're ready to dive in or just have a question, we're here to help. Get in touch and let's make something extraordinary happen.
+          Ready to elevate your brand? Reach out to us today and let&apos;s start crafting your unique story together. Whether you&apos;re ready to dive in or just have a question, we&apos;re here to help. Get in touch and let&apos;s make something extraordinary happen.
         </p>
         <form
           className="space-y-4 mt-4"

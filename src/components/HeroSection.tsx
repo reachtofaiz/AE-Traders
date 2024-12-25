@@ -14,7 +14,7 @@ function HeroSection() {
                     AE TRADERS
                 </h1>
                 <p className="mt-7 font-normal text-base md:text-2xl text-neutral-300 mx-auto px-4 md:px-4">
-                    Discover an extensive collection of beautifully designed home essentials, including curtains, bedsheets, doormats, and much more! Transform your living space into a haven of comfort and style with our premium-quality products. Whether you're looking for elegant designs, vibrant colors, or durable materials, we offer something for every taste and need. Enhance the ambiance of your home effortlessly with our stylish yet affordable range that combines functionality and aesthetics to perfection
+                    Discover an extensive collection of beautifully designed home essentials, including curtains, bedsheets, doormats, and much more! Transform your living space into a haven of comfort and style with our premium-quality products. Whether you&apos;re looking for elegant designs, vibrant colors, or durable materials, we offer something for every taste and need. Enhance the ambiance of your home effortlessly with our stylish yet affordable range that combines functionality and aesthetics to perfection
                 </p>
 
                 <div className="mt-8">

@@ -10,7 +10,7 @@ function page() {
             <h1 className="text-5xl mb-20 md:text-7xl text-center font-sans font-bold text-white">All Products ({productsDetail.products.length})</h1>
             <div className="flex flex-wrap justify-center">
                 {productsDetail.products.map((productsMapping) => (
-                    <CardContainer className="inter-var m-4">
+                    <CardContainer className="inter-var m-4" key={productsMapping.id}>
                         <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                             <CardItem
                                 translateZ="50"
